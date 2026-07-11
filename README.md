@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project documents my virtualized Windows Server Active Directory homelab, built to practise enterprise network administration and cybersecurity fundamentals.
+This project documents my virtualized Windows Server Active Directory homelab, built to practice enterprise network administration and cybersecurity fundamentals.
 
 The lab simulates a small business-style Windows domain environment using Windows Server 2025 Datacenter Evaluation and a Windows 11 client machine. The main focus of the project is to understand centralized identity management, domain authentication, Group Policy, file sharing, permissions, and basic account security in an enterprise-style network.
 
@@ -157,7 +157,7 @@ Tasks completed:
 - Created department-based security groups
 - Added users to the correct groups
 - Used groups to control access to shared resources
-- Practised group-based access control
+- Practiced group-based access control
 
 Example groups:
 
@@ -293,7 +293,7 @@ Useful commands used:
 
 ## Skills Demonstrated
 
-This project helped me practise and demonstrate the following skills:
+This project helped me practice and demonstrate the following skills:
 
 - Windows Server administration
 - Active Directory configuration
