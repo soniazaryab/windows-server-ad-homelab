@@ -242,7 +242,7 @@ Tasks completed:
 
 Example shared folder:
 
-- \\SERVER-NAME\SharedFiles
+- \\Sys1\shared
 
 Permissions were configured using both share permissions and NTFS permissions. This helped me understand that effective access is determined by both layers.
 
