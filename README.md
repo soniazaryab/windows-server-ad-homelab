@@ -263,7 +263,7 @@ Tasks completed:
 
 Example mapped drive:
 
-- Z: mapped to \\SERVER-NAME\SharedFiles
+- S: mapped to \\Sys1\shared
 
 ---
 
