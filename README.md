@@ -357,7 +357,7 @@ I also learned that Group Policy may not apply immediately. I used gpupdate /for
 
 This project helped me understand how Windows enterprise environments are structured and managed.
 
-I learned how Active Directory provides centralized control over users, computers, authentication, permissions, and policies. I also gained hands-on experience with Group Policy, file sharing, mapped drives, DNS configuration, and domain client management.
+I learned how Active Directory provides centralized control over users, computers, authentication, permissions, and policies. I also gained experience with Group Policy, file sharing, mapped drives, DNS configuration, and domain client management.
 
 The project improved my confidence with Windows Server administration and gave me a better understanding of how identity and access management works in real organizations.
 
